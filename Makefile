@@ -1,4 +1,4 @@
-TARGET = Inheritance.out
+TARGET = Rational
 CC = g++
 
 SRC = $(wildcard *.cpp)
